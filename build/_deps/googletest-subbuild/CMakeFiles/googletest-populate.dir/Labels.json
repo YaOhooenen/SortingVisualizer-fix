@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/930341a8f727b1cbdf4530f6a92821ce/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/664ffea7c102aa2957371e583680fdd9/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/maksi/source/repos/SortingVisualizer-master/build/_deps/googletest-subbuild/CMakeFiles/f7b5ed130bbbcf3c8becdac7118a678c/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

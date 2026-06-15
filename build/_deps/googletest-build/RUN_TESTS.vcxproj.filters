@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\maksi\source\repos\SortingVisualizer-master\build\CMakeFiles\d19f0055c0fab66807d6af6de4c994b4\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5A20D437-338F-3A14-8CC8-ABB682C6A42A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

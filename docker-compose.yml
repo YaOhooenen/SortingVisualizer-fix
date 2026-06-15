@@ -1,0 +1,59 @@
+services:
+  sorting-visualizer:
+    build: .
+    container_name: sorting_visualizer
+    stdin_open: true
+    tty: true
+
+  tests:
+    build: .
+    container_name: sorting_tests
+    entrypoint: ["./unit_tests"]
+    profiles: ["tests"]
+
+  scenario-bubble:
+    build: .
+    container_name: scenario_bubble
+    entrypoint: ["./scenario_bubble"]
+    tty: true
+    profiles: ["scenarios"]
+
+  scenario-selection:
+    build: .
+    container_name: scenario_selection
+    entrypoint: ["./scenario_selection"]
+    tty: true
+    profiles: ["scenarios"]
+
+  scenario-insertion:
+    build: .
+    container_name: scenario_insertion
+    entrypoint: ["./scenario_insertion"]
+    tty: true
+    profiles: ["scenarios"]
+
+  scenario-quick:
+    build: .
+    container_name: scenario_quick
+    entrypoint: ["./scenario_quick"]
+    tty: true
+    profiles: ["scenarios"]
+
+  scenario-merge:
+    build: .
+    container_name: scenario_merge
+    entrypoint: ["./scenario_merge"]
+    tty: true
+    profiles: ["scenarios"]
+
+  scenario-error:
+    build: .
+    container_name: scenario_error
+    entrypoint: ["./scenario_error"]
+    profiles: ["scenarios"]
+
+  scenario-perf:
+    build: .
+    container_name: scenario_perf
+    entrypoint: ["./scenario_perf"]
+    profiles: ["scenarios"]
