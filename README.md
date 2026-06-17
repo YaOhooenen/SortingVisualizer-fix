@@ -19,7 +19,11 @@
 #### Windows (Visual Studio)
 ```bash
 cmake -S . -B build
+```
+```bash
 cmake --build build
+```
+```bash
 build\Debug\sorting_visualizer.exe
 ```
 
@@ -36,11 +40,23 @@ build\Debug\unit_tests.exe
 ### Запуск сценариев
 ```bash
 build\Debug\scenario_bubble.exe
+```
+```bash
 build\Debug\scenario_selection.exe
+```
+```bash
 build\Debug\scenario_insertion.exe
+```
+```bash
 build\Debug\scenario_quick.exe
+```
+```bash
 build\Debug\scenario_merge.exe
+```
+```bash
 build\Debug\scenario_error.exe
+```
+```bash
 build\Debug\scenario_perf.exe
 ```
 
@@ -69,10 +85,22 @@ docker compose run --rm tests
 ### Запуск сценариев
 ```bash
 docker compose run --rm scenario-bubble
+```
+```bash
 docker compose run --rm scenario-selection
+```
+```bash
 docker compose run --rm scenario-insertion
+```
+```bash
 docker compose run --rm scenario-quick
+```
+```bash
 docker compose run --rm scenario-merge
+```
+```bash
 docker compose run --rm scenario-error
+```
+```bash
 docker compose run --rm scenario-perf
 ```
